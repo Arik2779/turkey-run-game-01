@@ -1,6 +1,8 @@
 # turkey-run-game-01
 
 [![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/Arik2779/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/Arik2779/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 **Turkey Run — Escape Thanksgiving Dinner.** Thanksgiving dinner is tonight, and YOU are the main course. Sprint across an autumn farm at sunset, jump the ovens, dodge the carving knives, grab the corn, and outrun the farmer all the way to the forest, 1500 metres away. Stumble and he closes in; lose all three lives and it's dinner time.
 
